@@ -3,4 +3,4 @@
 リモート側で改版しました。
 リモート側で改版２をしました。
 git merge
-master conflict
+feature conflict
