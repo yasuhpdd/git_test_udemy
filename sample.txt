@@ -5,3 +5,4 @@
 git merge
 feature conflict
 pull request
+GitHub Flow
